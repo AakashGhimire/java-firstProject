@@ -11,5 +11,7 @@ public abstract class Animal {
 		System.out.println("animals can walk");
 	}
 	
-	public abstract void jump();
+	public void jump() {
+	System.out.println("Hello testing GIT");
+	}
 }
